@@ -5,6 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.5",
     "ethers": "^5.0.0",
     "hardhat": "^2.12.6"
   },
